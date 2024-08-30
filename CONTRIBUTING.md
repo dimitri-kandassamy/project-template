@@ -1,6 +1,6 @@
 # Contributing
 
-Welcome! Thank you for considering to contribute to this project!
+Welcome! Thank you for your interest in contributing to this project!
 
 Contributions to this project are [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the project's open source license.
 
