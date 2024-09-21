@@ -11,17 +11,38 @@ Implementation, strategy and architecture].
 
 [TODO: Additional paragraph describing your project (optional)]
 
+## Getting Started 🚀
 
-## Getting Started
+### Prerequisites
 
-<!-- Include enough details to get started using, or at least building, the
-project here and link to other docs with more detail as needed.  Depending on
-the nature of the project and its current development status, this might
-include:
-* quick installation/build instructions
-* a few simple examples of use
-* basic prerequisites
---> 
+```
+
+```
+
+### Installation
+
+1. Clone the repo
+
+   ```
+
+   ```
+
+2. Install
+
+   ```
+
+   ```
+
+## Usage
+
+## Roadmap
+
+- [ ] Feature 1
+- [ ] Feature 2
+- [ ] Feature 3
+  - [ ] Nested Feature
+
+See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 ## Contributing
 
@@ -30,3 +51,11 @@ To contribute, please follow the guidelines outlined in the [CONTRIBUTING.md](./
 ## License
 
 This project is licensed under [Apache 2.0](./LICENSE)
+
+## Contact
+
+## Acknowledgments
+
+- []()
+- []()
+- []()
