@@ -1,5 +1,31 @@
-.DS_Store 
+# ============================================================
+# Universal patterns — safe for every project regardless of stack
+# ============================================================
 
-.env 
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
 
+# Secrets & credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Editors & IDEs
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============================================================
+# Stack-specific patterns
+# Generate and paste your block below using:
+#   https://www.gitignore.io
+# or pick a template from:
+#   https://github.com/github/gitignore
+# ============================================================
