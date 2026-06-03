@@ -10,6 +10,8 @@ Please note that this project is released with a [Contributor Code of Conduct](.
 
 ### DCO
 
+<!-- TODO: DCO is enabled by default. Remove this section if it doesn't suit your project. -->
+
 Licensing is important to open source projects. It provides some assurances that
 the software will continue to be available based under the terms that the
 author(s) desired. We require that contributors sign off on commits submitted to
