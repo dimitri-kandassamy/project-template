@@ -21,6 +21,8 @@ Implementation, strategy and architecture].
 
 ### Installation
 
+1. Add your stack-specific `.gitignore` patterns — generate them at [gitignore.io](https://www.gitignore.io) and append to the existing `.gitignore`
+
 1. Clone the repo
 
    ```
