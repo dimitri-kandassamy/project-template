@@ -7,7 +7,7 @@
 
 [TODO: Optional second paragraph with more detail]
 
-## Getting Started 🚀
+## Getting Started
 
 ### Prerequisites
 
