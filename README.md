@@ -9,17 +9,22 @@ This template uses the Apache license as a default.
 
 ## How to use this template
 
-1. Click **Use this template** on Github and create a copy of this repository.
-2. Copy the content of `README-template.md` into `README.md`
-3. Customize according to your project
+1. Click **Use this template** on GitHub and create a copy of this repository.
+2. Replace the contents of `README.md` with the contents of `README-template.md`, then delete `README-template.md`.
+3. Fill in all `[TODO: ...]` placeholders across every file.
+4. Update `CHANGELOG.md` with your project's release history.
+5. Customize or remove any files that don't fit your project.
 
 ## Project Resources
 
-| Resource                                   | Description                                                                                              |
-| :----------------------------------------- | :------------------------------------------------------------------------------------------------------- |
-| [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) | Expected behavior for project contributors, promoting a welcoming environment (Contributor Covenant 2.1) |
-| [CONTRIBUTING.md](./CONTRIBUTING.md)       | Developer guide to build, test, run, access CI, chat, discuss, file issues                               |
-| [LICENSE](./LICENSE)                       | Apache License, Version 2.0                                                                              |
+| Resource                                             | Description                                                                                              |
+| :--------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
+| [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)           | Expected behavior for project contributors, promoting a welcoming environment (Contributor Covenant 2.1) |
+| [CONTRIBUTING.md](./CONTRIBUTING.md)                 | Contribution guidelines including DCO sign-off and commit signing                                        |
+| [SECURITY.md](./SECURITY.md)                         | Vulnerability reporting policy and disclosure process                                                    |
+| [CHANGELOG.md](./CHANGELOG.md)                       | Release history following Keep a Changelog format                                                        |
+| [LICENSE](./LICENSE)                                 | Apache License, Version 2.0                                                                              |
+| [.github/](./.github/)                               | Issue templates (bug report, feature request) and pull request template                                  |
 
 ## Contributing
 
