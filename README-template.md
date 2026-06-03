@@ -42,7 +42,7 @@ Implementation, strategy and architecture].
 - [ ] Feature 3
   - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/[TODO: YOUR-USERNAME]/[TODO: YOUR-REPO]/issues) for a full list of proposed features (and known issues).
 
 ## Contributing
 
